@@ -1,0 +1,9 @@
+{
+    "id": "pathtrav.path.1",
+    "name": "Path Traversal by Path type 1",
+    "version": "1.0.0",
+    "script": "pattern.js",
+    "webpack": {
+        "excludeAllDeps": true
+    }
+}

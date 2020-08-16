@@ -1,0 +1,9 @@
+{
+    "id": "proto.path.2",
+    "name": "Prototype Pollution by Path type 2",
+    "version": "1.0.0",
+    "script": "pattern.js",
+    "webpack": {
+        "excludeAllDeps": true
+    }
+}

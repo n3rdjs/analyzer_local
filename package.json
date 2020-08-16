@@ -1,0 +1,28 @@
+{
+  "name": "analyzer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "all-the-package-names": "^1.3905.0",
+    "dotenv": "^8.2.0",
+    "lodash": "^4.17.15",
+    "mysql": "^2.17.1",
+    "ncp": "^2.0.0",
+    "rimraf": "^3.0.0",
+    "static-engine": "git+https://597c71e918b25f647b3e0b45213a9a99277d368c:x-oauth-basic@github.com/n3rdjs/static-engine.git#1.1.0",
+    "sync-mysql": "^3.0.1",
+    "tmp": "^0.1.0",
+    "webhook-discord": "^3.5.1",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  }
+}
